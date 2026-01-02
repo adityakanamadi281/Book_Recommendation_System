@@ -40,7 +40,7 @@ Book_Recommendation_System/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/adityakanamadi281/Book_Recommendation_System.git
 cd Book_Recommendation_System
 ```
 
